@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Pantherphor
 - 👀 I’m interested in Software Architecture and Security
 - 🌱 I’m currently learning F#, Nodejs
 - 💞️ I’m looking to collaborate on .Net open source offerings
